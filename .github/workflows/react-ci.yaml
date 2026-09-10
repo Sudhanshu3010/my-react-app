@@ -1,5 +1,3 @@
-https://drive.google.com/drive/folders/1BPTNLnctpzT0jjvdaK6ZkGjyCiJxqHHR
-
 name: React CI
 on:
   push:
